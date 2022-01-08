@@ -1,4 +1,4 @@
-##Using Spring plugin to execute the Strategy Pattern ##
+##Using Spring plugin to execute the Strategy Pattern 
 
 Demonstrates use of the Spring plug to implement the Strategy pattern.
 
